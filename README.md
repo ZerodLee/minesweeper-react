@@ -10,3 +10,7 @@
 ### react hooks 实现的扫雷游戏
 
 几天空余时间，做了个小demo，实现核心功能，后面有时间再补完（挖坑）
+
+
+### 用到的技术（尽可能滴折腾）
+react + vite + ts + tailwindcss
